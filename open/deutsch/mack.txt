@@ -1,0 +1,163 @@
+Input von:
+- @teamtimanfaya
+- @Habrok42
+
+
+
+Einführung
+----------------------------
+
+* Über Mack Rides und den Gast
+
+* Definition Achterbahn vs. andere Fahrgeschäfte?
+
+* Was sind Mega, was sind Hypercoaster?
+
+* Sind diese Katapult-Senkrecht-WiederRunterfall-Dinger
+  auch Achterbahnen :-) ?
+  
+* Kurzer Abriss der Geschichte
+  - Veränderung Matertialien (Holz->Stahl)
+  - Geschwindigkeiten, Höhen, Gs
+  - auch im Bezug zu Mack
+
+
+
+Vorschriften und Prüfung
+----------------------------------------------
+
+* Wer macht die Sicherheitsvorschriften?
+
+* Was genau schreiben die vor?
+
+* Kann Handraushalten gefählich sein?
+
+* "in D muss Bügel 4 mal rasten statt 3 mal" beim Silver Star?
+
+* Was wird gemacht, dass man die Bügel nicht aus versehen
+  aufmacht/aufgehen?
+
+* Wie wird Entgleisung verhindert?
+  andere Redundanzen im Fahrwerk?
+
+* Über-Kopf-Elemente besonders sicherheitskritisch?
+  bzw. Vorschriften?
+
+* Wie oft wird geprüft
+  - Konstruktion/Herstellung/Auslieferung
+  - wiederkehrend bei stationären
+  - wiederkehrend bei mobilen
+
+
+
+Konstruktionsalternativen
+----------------------------------------------
+
+* Lift
+  - Einmal Lift + "Ausrollen" vs. Zwischenlifte?
+  - mehrere Lifte vs. 1 Lift der mehrmals befahren wird. Weichen?
+  - Im Gegensatz dazu: Powered Coaster 
+    . dauerhaft angetrieben
+    . immer wieder bremsen/beschleunigen
+  - Unterschied Lift + Katapult 
+    . Linearmotoren, magnetisch?  
+    . wie kriegt man den Luftspalt möglichst klein?
+  - Liftsysteme
+    . mechanisch Kette 
+    . Magnetisch
+    . Trommellift?
+    . Rücklaufsperre!
+  - Haben alle neuen Katapulte? Oder hat
+    ein klassicher, "langsamer" Lift auch heute
+    noch seinen Charme?
+  
+* Wagenkonfigurationen
+  - Stehen vs. Hängen
+  - Querbeschl. vs. Lotrecht  
+  - Extra Freiheitsgrade 
+    . Spinning Coaster
+    . angetrieben/unangetrieben 
+    . Problem der "ruckartigen" Überlagerungen
+
+* Laterale Beschleunigungen Bug oder Feature?
+  - Ich finde es eher doof; macht es den Bau einfacher?
+  - Braucht halt weniger Gelenke?
+
+* Streckenführung
+  - wie beim Kunstflug => Höhe in Fahrt umwandeln
+  - Dabei Grenzen von v und g
+  - Abhängigkeit von 
+    . Temperatur (warum?)
+      "warmschießen"? warum? Wie geht das?
+    . Gewicht (warum?)
+      Braucht man dann ein Mindestgewicht? 
+      Kann man ggfs. nicht leer fahren?
+  - Mehrere Züge auf der Bahn
+    . Sicherungssysteme, Blöcke wie bei der Bahn?
+    . "Blockbremsen"?
+    . Max?
+  
+* Was sind Trim-Brakes?
+
+* "Airtime" 
+  - 0g vs. negativ
+  - wie weit, wie lang?
+  - Unterschiede (Geschw., gs) im Zug vorne + hinten
+    . Zugende über die Hügelkuppe gerissen, da der 
+      Großteil des Zuges bereits nach unten beschleunigt wird
+    . Und vorne "hängt" man auf der Kuppe
+    . Airtime hinten intensiver
+
+* Theming, Marketing, "Dangerous Name" :-)
+
+
+Entwicklung
+----------------------------------------------
+* Unterschiedlichkeit
+  - Komplette Einzelstücke
+  - Gleiche Technik, unterschiedliche Strecken
+    (was sind dann da die Randbedingungen? v? g?)
+    Zumindest gleiche Sitze + Bügel
+  - Gleiche Strecke, aber unterschiedliches Theming
+  - Komplette Kleinserien
+  
+* "Functional Core" bei Mack
+  
+* Mobile
+  - geringere Kräfte mangels Fundament
+  - kompaktere Fläche
+  - Auf/Abbauzeiten -> bedeutet konkret?
+  
+* Was ist Basis der Konstruktion, und wie beeinflusst
+  das die Anlage?
+  - Höhe?
+  - Fläche?
+  - "Spektakularität"
+  - Ablauf der Installation/des Aufbaus (Fundamente, Kräne, etc.)
+
+* Konstruktionssoftware? 
+  - Lichtraumprofil
+  - Energiemanagement
+  - Beschleunigungen
+  - Belastung von Bahn und Stützen?
+    Verstärkung an besonders belasteten Stellen
+    (Nur Schienen vs. Schienen + 1 oder 2 Zusatzstreben, wie bei Kränen)
+  - Herzlinie (was ist das?)
+  - welche Parameter sind noch relevant?
+  
+* Simulation / Zukunftskonzepte
+  - Wie real sind Simulatoren / Spiele wie Rollercoaster Tycoon?
+  - VR + Robocoaster als platzsparende Achterbahn denkbar / die Zukunft?
+  
+
+Outlook
+------------------------------------------------------------
+* Was sind heute die zu brechenden Rekorde?
+  Was sind Grenzen (des Menschen, der Zulassbarkeit) 
+  die man nicht überschreiten kann?
+  Andere begrenzende Faktoren? Belastung v. Bahn und Stützen?
+
+* Belastungsgrenzen für die Gäste
+
+  
+

@@ -1,0 +1,117 @@
+autopilotuser
+driver lance
+gittaca
+richard goyette
+Werner Engel
+Ulrich Bär
+ 
+
+* Overview
+  - Purpose historically and today
+  - We will primarily talk about the D variant.
+
+* Structure, Design, Systems
+  - do a little walkaround and talk about the main systems/components
+  - Pilot in the back - why?
+  - Crash protection?
+  - No crew escape system, right?
+  - X-shaped rotor. Strange.
+  - How is the Longbow different beyond the obvious radar on the mast?
+  
+* Robustness
+  - Self-Sealing Tanks
+  - How does the main rotor sustain a hit?
+  - FOD & turbines, cable cutters
+  - redundancy with the controls between the two operators (in case of wounds/injury/etc)?
+
+
+* Weapons
+  - Gun
+  - Rockets
+  - Mavericks
+  - sidewinders? other Air-to-Air?
+
+
+* Avionics
+  - Displays and Systems
+  - What do the chin turret sensors do?
+  - Acqusition systems and target classification
+  - Longbow Radar
+  - Helmet mounted Display
+    - gun slewing
+    - flying ("the tunnel")
+  - Weather/night
+
+
+
+
+* A preflight check
+
+* Flying the Apache
+  - Crew Collaboration
+  - Can both fly (systems and qual?)
+  - Crew escape in emergency?
+  - How does the upwards facing exhausts affect airflow through 
+    the rotor (lift/turbulence etc)?
+    As the helicopter’s velocity increases, the exhaust gases would hit the rotor 
+    blade further back (towards the tail). How do they compensate for this?
+
+  - Variants, Differences, Timeline
+
+
+
+
+
+  - IFR 
+  - Numbers: speed, altitude, endurance/range
+  - No air-to-air refuelling. How is in-mission refuelling done?
+
+  - Low-level flying
+    dangers: trees, sand, power lines
+  - Autorotate from low alt?
+
+
+  - Collaboration with ground crew
+  - collab with each other
+    . roles
+    . Kiowas, back in the day. Why no more?
+  - Collaboration with other flying units; 
+    . USAF?
+    . laser desig
+
+  - CAS: low/agile helos vs. A-10s vs. loitering drones
+  JSTarts
+  - Helo gun/maverick vs. LGB from plane. Damage Assessment easier?
+
+designator
+  - Data Integration with other systems
+  - Who is the Army's "AWACS"?
+
+
+
+* Missions
+  - Tank Busting
+  - Sandy
+
+  - Support of ground forces
+  - Recon
+  
+  - air 2 air: training und chancen?
+
+
+gs
+
+* Some of your work with the Apache
+  - exercise in the baltics
+  - where else did you fly, and what did you do?
+
+exereciye infrastructure
+
+* Replacemnt by 66?
+  "see" drones?
+
+  
+* Cowboy Hat vs- indians	
+
+
+  

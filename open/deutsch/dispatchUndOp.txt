@@ -1,0 +1,56 @@
+Operations/Verkehrsleitung
+-------------------------------
+
+* Global vs. einzelner Flug, "Verkehrsplanung"
+* Wer managed Flugzeugallokation und -Ersatz
+* Aspekte bei der Planung? Wirschatflichkeit?
+* Prozess bei verschiedenen Störungen
+  - Flugzeug kaputt Hub
+  - Flugzeug kaputt Woanders
+  - Besatzungen/Verfügbarkeit
+  - Vulkanausbruch oder andere "Großwetterereignisse"
+    Hurricane/Typhoon und Blizzard im Winter an der US Ostküste
+* Software Tools
+
+
+Dispatching
+--------------------------------
+* Flugplanung
+  - aircraft performance 
+  - loading
+  - enroute winds
+  - thunderstorm and turbulence forecasts
+  - airspace restrictions
+  - airport conditions
+  - generally, NOTAMS
+  - Spritplanung
+  - Wirtschaftliches
+  - Zeit
+  - Besonerheiten
+* Unterschiede Kurz vs. Langstrecke
+
+* Tankering
+  - wir nehmen Sprit mit von der billigen Tankstelle zur teuren
+  - Planung wenn es gar keinen Sprit gibt; kann man trotzdem fliegen, ohne Fracht, mit Zwischenlandung...
+
+* Verantwortlich oder "nur" Berater?
+* Zusammenspiel mit ATC zwecks Flugplan
+* Welche spezialisierten Rollen?
+* Software Tools
+
+* Anekdoten
+* ATC != Verkehrsflusssteuerung
+
+* SPezifische Eigenheiten einzelner Länder
+  - Russland
+  - China
+  - Afrika?
+
+Flight Following
+--------------------------------
+* advise pilots if conditions change. 
+* operations center of the airline. 
+* Welche Entscheidungen?
+
+
+

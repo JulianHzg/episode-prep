@@ -1,0 +1,109 @@
+(1) Mission Analysis
+---------------------------------------------
+
+* Introduction Pablo Muñoz
+* Responsibility: what is mission analysis and flight dynamics 
+  (Recap: because we had Rainer Kresken as a guest before)
+* Explain BepiColombo's trajectory
+  (that is the main spacecraft, not the landers etc.)
+  - key events / milestones
+  - speeds
+* How did you come up with this particular trajectory?
+  - what are the specific challenges for this mission?
+  - what factors in?
+    . time to target
+    . available "masses" for swing-bys
+    . energy consumption
+    . trade/off with mass of spacecraft/fuel
+    . can you design science package (weight!) independent 
+      of trajectory, or do the two trade-off all the time?
+  - which tools do you use? How do you ACTUALLY
+    go about designing the trajectory?
+
+* How do you navigate/monitor/control the flight? comms?
+  - maybe different in different flight phases?
+  - sensors?
+  - how much can be preplanned, how much is 
+    actively controlled, adjusted?
+
+
+(2) Scientist
+---------------------------------------------
+* The scientific goals of the mission
+  - Mercury
+  - have we been there before?
+
+  . Mercury's magnetised envelope (magnetosphere) - structure and dynamics
+  . Investigate the origin of Mercury's magnetic field
+  . Verify Einstein's theory of general relativity by measuring 
+    the parameters gamma and beta of the parameterized post-Newtonian 
+    formalism with high accuracy.
+
+
+  
+  . Origin and evolution of a planet close to its parent star
+  . Mercury as a planet — its form, interior, structure, geology, composition and craters
+  . Mercury's exosphere, composition and dynamics, including generation and escape
+
+elev mofdel - grav
+data limits bandwidth
+
+ 
+  
+  
+======================================  
+  
+  
+  
+  
+  
+* Mission Overview 
+  - who is participating
+  - who contributed what
+
+(2) "Spacecraft engineer"
+--------------------------------------
+* The spacecraft
+  - where does the name come from?
+  - size - compared to others?
+  - "Sub" space
+    . Mercury Transfer Module (MTM) for propulsion, built by ESA
+    . Mercury Planetary Orbiter (MPO) built by ESA
+    . Mercury Magnetospheric Orbiter (Mio) built by JAXA
+  - bus 
+    . propulsion
+    . attitude control
+    . thermal - probably interesting, since going towards sun
+    . comms
+  - Sensors to achieve the mission on the various subs
+    https://en.wikipedia.org/wiki/BepiColombo
+
+(3) Controller
+-------------------------------
+* The process it has gone through so far on the launch pad
+
+* What ias going on in Kourou today
+
+* Mission Control 
+  - which roles are in the control center
+  - Workshare Kourou vs. ESOC
+  - what is the orbit to get it to Mercury
+    how long the cruise?
+
+* The launch
+  [Here I would like to record the comms loop or get
+   your existing recordings so I can grab some parts
+   of them for atmosphere and context]
+  - step by step: what happens during the launch
+  - where did it launch to - orbit? upper stage?
+  - taking over the spacecraft after launch
+    . how does the handshake work?
+    . self-check?
+    . what else happens during that night?
+  
+(4) SysAdmin in Darmstadt
+----------------------------------------
+* Communication infrastructure between kourou and darmstadt
+* Comm infrastructure to the spacecraft
+* mission control center infrastructure
+  - redundancy

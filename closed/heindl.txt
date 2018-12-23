@@ -1,0 +1,135 @@
+
+
+Energiespeicherung generell
+---------------------------------
+* Elektrisch, Mechanisch, Chemisch?
+
+* Mechanisch:
+  - kinetisch (rotation)
+  - potentiell (höhe)
+
+Thermal not preferrable
+  
+* Warum wird das wichtiger mit erneuerbaren Energien?
+  Was sind da die prognostizierten Trends?
+
+* Dezentral vs. zentral? 
+  "Alle Teslas werden speichern"
+  
+* Warum nicht elektrisch? Was ist das Problem mit Batterien?  
+
+* Und kinetisch ist doof, weil es während d. Speicherung Widerstand
+  hat und damit Energie verliert.
+
+* Ist Speicherung wichtiger oder Transport? 
+  - Stichwort HGÜ
+  - Irgendwo brauchen wir ja immer Strom
+
+
+
+Gravity Storage - Idee und Benefits
+----------------------------------------
+
+* Überblick über die Idee
+
+* Pumpspeicherkraftwerke als derzeit größte Speicher
+  - Warum sind PSK nicht gut genug?
+
+* Vergleich der Speicherkapaziäten
+
+
+* Klingt verrückt :-)
+
+* Operations wäre quasi identisch mit PSK, oder?
+
+* Unterschied zu PSK
+  - Große Masse, aber kleines deltaH
+    PSK (vielleicht) kleinere Masse, aber großes deltaH
+
+
+
+* Bürgerproteste weniger, weil's nicht in "schönen Bergen" sein muss wie PSKs?
+
+* BUild in desert
+
+
+Gravity - Challenges
+-------------------------------------
+
+* Typische Größen
+  - Konstruktionskosten r2, storage capacity r4 -> gut!
+
+  - Haben das andere nicht auch? Seen zum Beispiel? Geht ja auch mit dem Volumen.
+
+
+
+* Wie baut man sowas?
+  - Wie "sägt" man so einen Zylinder raus?
+  - Baudauer?
+  - wie trennt man die Unterseite vom Boden.
+  - Ist das an sich eine Herausforderung?
+
+
+  - Wie lange baut man an sowas? 
+  - Investment-Kosten verglichen mit anderen?
+
+* Welche Gesteine? Dichte, Stabilität, Dichtheit, 
+  - was sonst für Kriterien?
+  - Gibt's das überall?
+
+
+* Abdichtung
+  - Sealing the piston and the exterior walls - geomembrane and concrete.
+  - Sealing ring around the Piston to withstand hydraulic pressure
+     rolling membrane. Explain!
+
+
+
+* Wie hoch würde der Zylinder gehoben? Stabilitätsgrenzen?
+* Limitiert durch Druck den die Pumpen aufbringen können?
+
+
+
+Wrap up
+-----------------------------
+
+  
+
+
+* Wie kommt man auf sowas
+
+* Oder besser: wie kommt man auf sowas und arbeitete auch dran?
+  Statt zu sagen: jooo, cool, aber verrückt. Let's move on.
+
+* Invention process
+
+
+* sounds crazy - but fusion?
+
+* Business Cases
+  - wie würde sowas betrieben?
+  - wie unterscheidet sich das von PSKs?
+  - gibt es konkretes Interesse?
+
+
+* Betriebskosten
+  - Maintenance?
+  - Was muss über die Zeit ersetzt werden?
+
+* Umweltrisiken?
+
+* cylinder wheels?
+
+
+* Was fehlt	
+
+YOur full time job?
+
+Andere mechanische Alternativen
+--------------------------------------
+* PumpedAirStorage
+* https://qz.com/1355672/stacking-concrete-blocks-is-a-surprisingly-efficient-way-to-store-energy/
+
+
+
+

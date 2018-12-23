@@ -1,0 +1,123 @@
+Klassische Aufzüge
+--------------------------------------
+
+* Ein bisschen Historie
+
+* Und die Rolle von ThyssenKrupp Elevator
+
+* Seil, Kabine, Schacht.
+  - typische Seildurchmesser
+  - mehrer Seile wegen Redundanz
+  - wie groß maximal die Kabine?
+    (Ohne Seil, später)
+
+* Wie macht man Absturzsicherung für den (unwahrscheinlichen)
+  Fall, dass das Seil reißt?
+  - Erkennung des Fallens
+  - Bremsen
+
+
+Limitierungen
+--------------------------------------
+
+* Limitierungen der Höhe 
+  - Seilmasse?
+  - Reisezeiten?
+
+* Kabinengröße, auch psychologisch
+
+* Grenzen sinnvoller Geschwindigkeiten  
+  - technisch
+  - vs. für Passagiere; Ohrdruck, Beschleunigungen
+  
+* Andere Kapa-Grenzen  
+  - Anzahl Schächte ein Problem in hohen/großen Gebäuden
+    wegen der notwendigen Grundfläche
+  - Ist auch die Masse des Gesamtsystems ein Problem? Für das Gebäude?
+  - zu oft halten -> zu langsam in Summe
+  
+* Ansätze zur Optimierung
+  - Parallele Schächte mit Ziel-Vorwahl
+    . Bei Bosch in Renningen
+    . Überfordert das die Nutzer?
+  - Expressaufzüge die erst weiter oben halten
+    (verschwendet den Schacht drunter)
+  - Double Decker -- können nur nebeneinander halten
+  - Zwei Kabinen pro Schacht 
+    . TKE TWIN system
+    . können sich nicht überholen
+    . wie wird das Seil geführt? Muss ja die obere Kabine "umfahren"
+  - "Umsteige" Aufzüge
+
+
+Multi
+--------------------------------------
+
+* Kein Seil mehr!
+
+* Technisches 
+  - Antrieb und Verankerung via Linearmotoren
+    . was ist das?
+    . Wie bei Transrapid :-)
+    . Absturzsicherung wie? Psychologie1
+  - Auch horizontales Fahren möglich
+    . Weichen 
+    . ne Art "Vertikale Metro" im Gebäude
+    . Fixe Routen? Im Kreis? Oder on demand?
+  - andere Herausforderungen
+
+* Steuerungssystem?
+  - wie wird zentral Koordiniert?
+
+* Um wieviel ist der Durchsatz steigerbar
+  - Keine Höhenbeschränkung (Seil!)
+  - Mehrere Cabs pro Schacht
+  - Damit in Summe weniger Fläche
+  - Zu oft halten ist aber immer noch ein Problem, oder?
+    (Ziel-Vorwahl wird man vielleicht trotzdem wollen?)
+  - Flexiblerer Ausbau
+    (Steigerung durch mehr Kabinen statt neuen Schächten)
+
+* Die Aufzuginfrastruktur ist doch sicher teurer, oder?
+  (Wobei es sich durch mehr Gebäudefläche sicher rechnet)(
+
+* Status? Schon in Betrieb?  
+
+
+    
+
+Testturm  
+----------------------
+
+(Fragen vor allem aus dem Kontext der Besichtigung)
+
+* Sinn und Zweck
+
+* Daten, Architektur, Besucherterrasse
+
+* Verwendung für klassische Aufzüge
+
+* Monitoringinfrastruktur
+
+* Verwendung für Multi
+
+* Technische Vorkehrungen um flexibel andere Aufzugsysteme zu installieren?
+  - wie oft wird das umgebaut?
+
+* Was genau tut man beim *Testen* von Aufzügen?
+  - Belastung 
+  - Zu schnell?
+  - Mal "fallen lassen" und schauen ob die Absturzsicherung tut?
+  - Testprogramm für neue Aufzüge?
+
+* Wieso Turm und nicht in die Tiefe? Oder eine Kombination aus beidem, um mehr und einfacher große Höhendifferenzen zu erreichen
+
+
+
+Zukunft
+----------------------
+
+* Wie realistisch ist der bereits langerhoffte Weltraumaufzug?
+  - Gibt es in diese Richtung Forschungsthemen?
+* Problematisch in Hochhäusern ist immer wieder die Rettung im Brandfall.
+  - Gibt es hier Ansätze das mit speziellen Fahrstühlen zu vereinfachen / lösen? Hermetische Abschottung?
